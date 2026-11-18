@@ -180,7 +180,7 @@ Never commit your API key or webhook secret. `.env.local` is already in `.gitign
    - your key decisions and trade-offs, and any rule you had to interpret
    - what you'd do with more time
    - where AI tools helped and where you had to step in
-3. **Fill in the [submission form](https://docs.google.com/forms/d/e/1FAIpQLSez08boGY028tY3s_SygKkbcK9DaRrTx0YPwgKj-NjRvnvxsQ/viewform)** with your repo link, when you started, and how long you spent on it. Please don't send secrets or API keys.
+3. **Fill in the [submission form](https://docs.google.com/forms/d/e/1FAIpQLSez08boGY028tY3s_SygKkbcK9DaRrTx0YPwgKj-NjRvnvxsQ/viewform)** with your repo link. Please don't send secrets or API keys.
 
 After we've looked at it, we'll book a 30-minute call where you show us your app, and we ask you to change something live.
 
