@@ -1,0 +1,11 @@
+node_modules/
+.next/
+out/
+*.tsbuildinfo
+next-env.d.ts
+.env*.local
+.DS_Store
+
+
+# Local mailbox written by src/lib/email.ts when RESEND_API_KEY is empty
+.mailbox/
